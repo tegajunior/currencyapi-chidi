@@ -1,0 +1,14 @@
+{
+  "name": "chidi-enye-backend-task-1",
+  "version": "1.0.0",
+  "description": "An API for getting the latest currenc rates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chidiebere",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
